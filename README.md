@@ -7,3 +7,5 @@ Repositorio de prueba para mostrar todo el power de git, github y git cli
 $$
 f(x) = x^2
 $$
+
+no funciona LaTex
